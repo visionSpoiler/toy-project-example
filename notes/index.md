@@ -4,4 +4,4 @@
 
 | 날짜 | 파일 | 요약 |
 |------|------|------|
-| - | - | 아직 작성된 노트가 없습니다. |
+| 2026-10-17 | [github-glossary.md](./github-glossary.md) | GitHub 사용을 위해 알아야 하는 기본 용어 정리 (repo, commit, branch, PR, merge 등) |
